@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkopjeLife_2</string>
+    <string name="google_aps_API_key">AIzaSyCo_FmVB8IqsOioGnPe33e8g8OtB2N8_78</string>
+    <string name="facebook_app_id">433687197100771</string>
+    <string name="fb_login_protocol_scheme">fb433687197100771</string>
+    <string name="title_activity_internet_and_locaton_activity">internet_and_locaton_activity
+    </string>
+</resources>
